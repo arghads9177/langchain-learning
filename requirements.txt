@@ -7,3 +7,4 @@ langserve
 langchain-huggingface
 python-dotenv
 openai
+bs4
