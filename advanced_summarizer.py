@@ -29,7 +29,7 @@ combine_prompt_template = """
             - Be easy to understand.
             - Focus on key points and main ideas.
             - Avoid unnecessary details and repetitions.
-            - It shoulb be in a format of a linkedIn post.
+            - It should be in a format of a linkedIn post.
 
             Final Summary:
             """
